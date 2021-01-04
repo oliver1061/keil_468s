@@ -6,6 +6,7 @@
 #include "adc.h"
 
 //V1.1  改校准MIN阀值  ADJ_DATA_MIN 由 18900 改为 16500
+//V1.2  试一下能不能正常提交修改后的内容
 
 
 //Schmitt
